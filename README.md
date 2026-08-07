@@ -46,15 +46,15 @@ JavaScript • Web Technologies
 My personal developer portfolio.
 
 Live:
-https://pradipsportfolio.netlify.app/
+https://pradips-portfolio.onrender.com/
 
 ## 📫 Connect With Me
 
 Portfolio:
-https://pradipsportfolio.netlify.app/
+https://pradips-portfolio.onrender.com/
 
 Instagram:
-https://instagram.com/pradip21211
+https://instagram.com/pradip_m0
 
 ---
 
