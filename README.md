@@ -1,52 +1,41 @@
+# Hi, I'm Pradip Mishra 👋
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=PRADIP%20MISHRA&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20UI%2FUX%20DESIGNER&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=PRADIP%20MISHRA&fontSize=52&color=0:0f172a,40:1d4ed8,100:38bdf8&stroke=ffffff&strokeWidth=1&animation=fadeIn" width="100%"/>
 
-# Hi, I'm Pradip 👋
+### Full-Stack Developer • Product Builder • UI/UX Designer
 
-### I build modern web applications, digital products & experiences.
+> Building digital products that solve real problems.
 
 <p>
-  <a href="https://pradips-portfolio.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/pradip-mishra-aa211b280/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:pradipmishra212121@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/pradip_m0/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <a href="mailto:pradipmishra212121@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://pradips-portfolio.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pradip-mishra-aa211b280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/pradip_m0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=pradipmishra1&label=PROFILE%20VIEWS&color=2563eb&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=pradipmishra1&style=flat-square&color=2563eb&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 Who am I?
 
-```text
-🎓 BCA Student
-🌏 Based in Nepal
-💻 Full-Stack Developer
-🎨 UI/UX Designer
-🚀 Building real-world digital products
-🧠 Learning by building, breaking and rebuilding
+```yaml
+Name: Pradip Mishra
+Location: Kathmandu, Nepal 🇳🇵
+Education: Bachelor of Computer Applications
+Focus: Full-Stack Web Development
+Mission: Build products people actually use.
 ```
 
-I enjoy turning ideas into **clean, functional and useful products**.
-
-My main focus is modern web development, combining solid engineering with thoughtful interface design.
-
-> **Build something useful. Make it simple. Keep improving.**
+I love creating **clean interfaces**, **powerful backend systems**, and **student-focused platforms** that make everyday life easier.
 
 ---
 
-## ⚡ What I'm Doing Now
+# ⚡ Current Focus
 
 <table>
 <tr>
@@ -56,36 +45,17 @@ My main focus is modern web development, combining solid engineering with though
 
 **SECM**
 
-A student-focused platform for discovering and participating in contests, challenges and opportunities.
+A modern platform connecting students with competitions, hackathons, scholarships and opportunities.
 
 </td>
 <td width="50%">
 
 ### 🌱 Learning
 
-**Modern Full-Stack Development**
-
-Deepening my knowledge of React, Next.js, TypeScript, backend architecture and databases.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎨 Designing
-
-**Better User Experiences**
-
-Creating interfaces that are clean, intuitive and visually consistent.
-
-</td>
-<td width="50%">
-
-### 🎯 Goal
-
-**Become a stronger product-focused developer**
-
-Build real products, solve real problems and continuously improve.
+* System Design
+* Backend Architecture
+* TypeScript Ecosystem
+* Product Engineering
 
 </td>
 </tr>
@@ -93,175 +63,125 @@ Build real products, solve real problems and continuously improve.
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Arsenal
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
-</p>
+<div align="center">
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css"/>
 
-### Backend & Database
+### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,prisma,postgresql,firebase" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,prisma,postgresql,firebase"/>
 
-### Design & Development Tools
+### Design & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=figma,git,github,docker,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=figma,git,github,docker,vscode"/>
+
+</div>
 
 ---
 
-# 🚀 Selected Projects
+# 🚀 Featured Work
 
 <div align="center">
 
-<a href="https://github.com/pradipmishra1/SECM">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pradipmishra1&repo=SECM&theme=github_dark&hide_border=true" />
-
-</a>
-
-<a href="https://github.com/pradipmishra1/nexus-scholar">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pradipmishra1&repo=nexus-scholar&theme=github_dark&hide_border=true" />
-
-</a>
-
-</div>
+<table>
+<tr>
+<td width="50%">
 
 ### 🏆 SECM
 
-**Student Event & Challenge Management Platform**
+Student Event & Challenge Platform
 
-A platform designed to help students discover contests, challenges and opportunities while giving organizers tools to manage them.
+`Next.js` `TypeScript` `Prisma`
 
-**Stack:** `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Prisma` · `PostgreSQL`
-
-[View Project →](https://github.com/pradipmishra1/SECM)
-
----
+</td>
+<td width="50%">
 
 ### 🎓 Nexus Scholar
 
-**Student Learning & Study Platform**
+AI-powered Learning Platform
 
-A student-focused platform combining learning resources with AI-powered study tools.
+`React` `PostgreSQL`
 
-**Stack:** `Next.js` · `TypeScript` · `PostgreSQL` · `Prisma`
-
-[View Project →](https://github.com/pradipmishra1/nexus-scholar)
-
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 💼 NauloRojgar
 
-**Student Job Discovery Platform**
+Student Job Discovery Platform
 
-A platform focused on helping students discover relevant jobs and opportunities.
+</td>
+<td width="50%">
 
-**Stack:** `JavaScript` · `HTML` · `CSS`
+### 🌐 Portfolio
 
-[View Project →](https://github.com/pradipmishra1/NauloRojgar)
+Minimal developer portfolio with modern UI
 
----
-
-### 🌐 Personal Portfolio
-
-My personal portfolio showcasing my development work, design skills and projects.
-
-[Visit Portfolio →](https://pradips-portfolio.onrender.com/)
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pradipmishra1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradipmishra1&layout=compact&langs_count=8&hide_border=true&theme=github_dark" height="180" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=pradipmishra1&theme=github-dark-blue&hide_border=true" width="70%" />
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🧠 My Development Philosophy
+# 📈 GitHub Pulse
 
 <div align="center">
 
-### Think → Design → Build → Test → Ship → Improve
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pradipmishra1&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<br>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradipmishra1&layout=compact&theme=transparent&hide_border=true"/>
 
-**Good software isn't only about code.**
-
-**It's about solving the right problem in a simple way.**
+<img width="100%" src="https://streak-stats.demolab.com?user=pradipmishra1&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎯 Current Goals
-
-```text
-[████████████████████░░] Full-Stack Development
-
-[██████████████████░░░░] React & Next.js
-
-[█████████████████░░░░░] Backend Architecture
-
-[████████████████░░░░░░] UI/UX Design
-
-[███████████████░░░░░░░] Building Real Products
-```
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in:
-
-* 💡 Interesting product ideas
-* 🤝 Collaboration
-* 💻 Development projects
-* 🎨 UI/UX work
-* 🚀 Internships and opportunities
-* 🧠 Meeting other builders
+# 💻 Philosophy
 
 <div align="center">
 
-<a href="mailto:pradipmishra212121@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Build%20Something-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### “Great products are built with empathy before code.”
 
-<br><br>
+</div>
 
-<a href="https://pradips-portfolio.onrender.com/">Portfolio</a>
-  •   <a href="https://www.linkedin.com/in/pradip-mishra-aa211b280/">LinkedIn</a>
-  •   <a href="https://www.instagram.com/pradip_m0/">Instagram</a>
-  •   <a href="mailto:pradipmishra212121@gmail.com">Email</a>
+I believe the best software is **simple**, **fast**, and **useful**. Every project I build is an opportunity to learn something new and improve the user experience.
 
-<br><br>
+---
 
-⭐ If you find something useful in my repositories, consider giving it a star.
+# 🎯 2026 Goals
+
+<div align="center">
+
+| Goal                        | Progress   |
+| --------------------------- | ---------- |
+| Ship 5 production projects  | ████████░░ |
+| Master Next.js ecosystem    | ███████░░░ |
+| Become backend confident    | ██████░░░░ |
+| Land a great developer role | █████░░░░░ |
+
+</div>
+
+---
+
+# 🤝 Let's Build Something
+
+<div align="center">
+
+If you're working on something meaningful, I'd love to collaborate.
+
+**Full-Stack • UI/UX • Student Products • Open Source**
+
+<br/><br/>
+
+<a href="mailto:pradipmishra212121@gmail.com"><img src="https://img.shields.io/badge/Let's%20Connect-2563EB?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -269,8 +189,8 @@ I'm always interested in:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38bdf8,50:2563eb,100:0f172a"/>
 
-**© Pradip Mishra · Built with curiosity, code & caffeine ☕**
+### Thanks for visiting ✨
 
 </div>
