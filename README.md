@@ -2,7 +2,6 @@
 
 🎓 BCA Student  
 💻 Full Stack Developer | UI Designer  
-🇳🇵 Based in Nepal
 
 I build modern web applications with clean UI and practical solutions.
 
